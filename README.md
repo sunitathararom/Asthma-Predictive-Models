@@ -1,4 +1,4 @@
-# Asthma Predictive Models Comparison 🫁📊
+[โรคหอบหืด.csv](https://github.com/user-attachments/files/30148804/default.csv)# Asthma Predictive Models Comparison 🫁📊
 
 ## Overview
 This project focuses on building and evaluating machine learning models to predict asthma risk. By leveraging healthcare data sourced from Kaggle, the project compares multiple classification algorithms to identify the most accurate and reliable predictive model.
@@ -21,5 +21,6 @@ Based on the evaluation, the Random Forest algorithm significantly outperformed 
 
 ## 📁 Files in this Repository
 *(ถ้าคุณมีไฟล์โค้ดหรือไฟล์เอกสาร สามารถพิมพ์อธิบายเพิ่มตรงนี้ได้ครับ เช่น)*
-* `Model_Training.ipynb` - Source code for data preprocessing and model training.
-* `Dataset/` - Healthcare data used for training and testing.
+* `Model_Training.ipynb` - Source code for data preprocessing and model training.https://canva.link/jtemzndevl66zl4
+* `Dataset/` - Healthcare data used for training and testing.[Uploading โรคหอบหืด.csv…]()
+

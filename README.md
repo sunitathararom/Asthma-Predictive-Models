@@ -20,7 +20,7 @@ Based on the evaluation, the Random Forest algorithm significantly outperformed 
 ---
 
 ## 📁 Files & References
-* 📊 **[Project Presentation / Report (Canva)](https://canva.link/jtemzndevl66zl4)** - สไลด์สรุปผลการเปรียบเทียบประสิทธิภาพโมเดล
+* 📊 **[Project Presentation / Report (Canva)](https://canva.link/jtemzndevl66zl4)** 
 * `โรคหอบหืด.csv` - Healthcare dataset sourced from Kaggle, used for training and testing the models.
 
 

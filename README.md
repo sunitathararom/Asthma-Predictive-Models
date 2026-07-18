@@ -19,8 +19,7 @@ Based on the evaluation, the Random Forest algorithm significantly outperformed 
 
 ---
 
-## 📁 Files in this Repository
-*(ถ้าคุณมีไฟล์โค้ดหรือไฟล์เอกสาร สามารถพิมพ์อธิบายเพิ่มตรงนี้ได้ครับ เช่น)*
-* `Model_Training.ipynb` - Source code for data preprocessing and model training.https://canva.link/jtemzndevl66zl4
-* `Dataset/` - Healthcare data used for training and testing.[Uploading โรคหอบหืด.csv…]()
+## 📁 Files & References
+* 📊 **[Project Presentation / Report (Canva)](https://canva.link/jtemzndevl66zl4)** - สไลด์สรุปผลการเปรียบเทียบประสิทธิภาพโมเดล
+* `โรคหอบหืด.csv` - Healthcare dataset sourced from Kaggle, used for training and testing the models.
 
